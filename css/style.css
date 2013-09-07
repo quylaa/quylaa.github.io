@@ -1,0 +1,21 @@
+h2 {
+	text-align: center;
+	padding: 20px 0px;
+	margin: 0;
+	color: #fff;
+}
+
+header {
+	background: #512f52; /* Old browsers */
+	background: -moz-linear-gradient(top,  #512f52 0%, #3f2434 58%, #261626 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#512f52), color-stop(58%,#3f2434), color-stop(100%,#261626)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #512f52 0%,#3f2434 58%,#261626 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #512f52 0%,#3f2434 58%,#261626 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #512f52 0%,#3f2434 58%,#261626 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #512f52 0%,#3f2434 58%,#261626 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#512f52', endColorstr='#261626',GradientType=0 ); /* IE6-9 */
+}
+
+li {
+	font-size: 18px;
+}
